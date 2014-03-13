@@ -38,6 +38,7 @@
 # layout engine
 
   vec2-layout
+  vec2-view
 
 # database
 
