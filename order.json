@@ -1,12 +1,11 @@
 [
   "polyfills",
-  "node core",
-  "formatting", 
+  "core",
   "plumbing",
+  "formatting", 
   "dom",
   "layout",
   "database",
-  "assets",
   "math",
   "studio",
   "declarative"

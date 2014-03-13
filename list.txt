@@ -5,22 +5,12 @@
   object-keys
   class-list
 
-# node core
+# core
 
-  events
-  stream
-  buffer
-  http
   url
   querystring
- 
-# formatting
-
-  strftime
-  sprintf
-  object-inspect
-  text-table
-
+  buffer
+  
 # plumbing
 
   shoe
@@ -28,14 +18,20 @@
   through
   duplexer
   split
+ 
+# formatting
+
+  strftime
+  sprintf
+  object-inspect
 
 # dom
 
   observable
   keycode
-  ansi-keycode
-  hyperglue
+  hyperquest
   handlebars
+  insert-css
 
 # layout engine
 
@@ -48,11 +44,6 @@
   level.js
   level-fs-browser
 
-# assets
-
-  brfs
-  insert-css
- 
 # math
 
   ndarray
