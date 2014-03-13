@@ -1,0 +1,74 @@
+# polyfills
+
+  class-list
+  jsonify
+
+# node core
+
+  events
+  stream
+  buffer
+  http
+  url
+  querystring
+ 
+# node userland
+
+  inherits
+  
+# formatting
+
+  strftime
+  sprintf
+  object-inspect
+  text-table
+
+# plumbing
+
+  shoe
+  mux-demux
+  through
+  duplexer
+  split
+
+# dom
+
+  observable
+  keycode
+  ansi-keycode
+  hyperglue
+  handlebars
+
+# layout engine
+
+  vec2-layout
+
+# database
+
+  multilevel
+  level.js
+  level-fs-browser
+
+# assets
+
+  brfs
+  insert-css
+ 
+# math
+
+  ndarray
+  rref
+  gamma
+  gcd
+
+# a whole thing
+
+  slideways
+  oscilloscope
+  frequency analyzer
+  webaudio
+
+# declarative bindings
+
+  attractor example
+
