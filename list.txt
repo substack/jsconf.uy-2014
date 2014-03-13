@@ -30,7 +30,6 @@
   observable
   keycode
   hyperquest
-  handlebars
   insert-css
 
 # layout engine
