@@ -1,7 +1,9 @@
 # polyfills
 
-  class-list
   jsonify
+  isarray
+  object-keys
+  class-list
 
 # node core
 
