@@ -49,7 +49,6 @@
   rref
   gamma
   gcd
-  vec2
 
 # a whole thing
 
