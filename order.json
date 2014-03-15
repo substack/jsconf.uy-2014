@@ -1,11 +1,11 @@
 [
-  "polyfills",
+  "polyfill",
   "core",
   "plumbing",
   "formatting", 
   "dom",
   "database",
   "math",
-  "studio",
-  "declarative"
+  "declarative",
+  "studio"
 ]
